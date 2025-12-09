@@ -1,1 +1,1 @@
-This contains 3 AI projects that can be used as a last moment submission with good UI and less code. The installation guide is already in the folder but if you are having any issue refer to this chat - https://chatgpt.com/share/69380e27-d4ac-8008-beb8-e8d1f144f6ea
+This contains 4 AI projects that can be used as a last moment submission with good UI and less code. The installation guide is already in the folder but if you are having any issue refer to this chat - https://chatgpt.com/share/69380e27-d4ac-8008-beb8-e8d1f144f6ea
